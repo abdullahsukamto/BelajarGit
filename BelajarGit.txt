@@ -8,3 +8,5 @@ Berlatih lagi untuk melakukan perubahan file dan ditambahnkan ke repo lokal dan 
 kolaborasi
 
 Manda yang nambah, coba lagiii
+
+belajar git hari kedua
